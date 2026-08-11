@@ -174,6 +174,12 @@ goal        : Write clean code and build products that matter
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -193,24 +199,28 @@ goal        : Write clean code and build products that matter
 
 <div align="center">
 
-### 🔥 Your Project Name Here
+### 🎬 CineVault
 
-*Short one-line description of what it does*
+*A responsive movie and web-series discovery website where users can explore, search, favorite, and mark movies/shows as watched*
 
 </div>
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│  🔥  PROJECT NAME                                            │
+│  🎬  CINEVAULT                                                │
 │  ─────────────────────────────────────────────────────────  │
-│  ⚡  Feature One         →  What it does                     │
-│  🎯  Feature Two         →  What it does                     │
-│  🌐  Full Stack          →  React • Tailwind • Bootstrap     │
-│  🏆  Built For           →  Hackathon / Personal / Learning  │
+│  🎬  Discovery           →  Explore movies & web series      │
+│  🔎  Search               →  Find movies & web shows fast    │
+│  ❤️  Favorites & Watched  →  Track what you love & watched   │
+│  👤  User Profile         →  Saved name & personalization    │
+│  ⭐  Ratings               →  IMDb & Rotten Tomatoes scores   │
+│  📱  Responsive            →  Works on mobile & desktop      │
+│  🌐  Built With           →  HTML • CSS • JS • Font Awesome  │
+│  🏆  Built For            →  Personal / Learning Project     │
 └─────────────────────────────────────────────────────────────┘
 ```
 
-[![View Repo](https://img.shields.io/badge/View%20on%20GitHub-Project--Repo-a78bfa?style=for-the-badge&logo=github)](https://github.com/Devansh0Tyagi-Codes)
+[![View Repo](https://img.shields.io/badge/View%20on%20GitHub-CineVault-a78bfa?style=for-the-badge&logo=github)](https://github.com/Devansh0Tyagi-Codes/CineVault)
 
 ---
 
