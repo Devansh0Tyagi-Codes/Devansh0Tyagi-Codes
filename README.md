@@ -1,496 +1,187 @@
 <div align="center">
 
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                    ANIMATED HEADER                        -->
-<!-- ══════════════════════════════════════════════════════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0033,50:4a2377,100:c084fc&height=220&section=header&text=Hey,%20I'm%20Devansh%20👋&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=C%2B%2B%20Programmer%20|%20Web%20Developer%20|%20DSA%20Enthusiast&descAlignY=55&descSize=18&animation=fadeIn" />
-
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                    TYPING ANIMATION                       -->
-<!-- ══════════════════════════════════════════════════════════ -->
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=C084FC&center=true&vCenter=true&width=700&lines=%F0%9F%92%BB+C%2B%2B+Programmer+%7C+DSA+Enthusiast;%F0%9F%8C%90+Web+Developer+%7C+React+%26+Tailwind;%F0%9F%8E%AC+Building+CineVault+%E2%80%94+Movie+Discovery+App;%F0%9F%8E%93+B.Tech+CSE+%40+ABES+Engineering+College)](https://github.com/Devansh0Tyagi-Codes)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,30:1a0533,60:2d1b69,100:7c3aed&height=200&section=header&text=Devansh%20Tyagi&fontSize=52&fontColor=e2d9f3&fontAlignY=38&desc=C%2B%2B%20%7C%20Web%20Dev%20%7C%20DSA&descSize=17&descAlignY=58&descColor=a78bfa&animation=fadeIn" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/dynamic/json?color=c084fc&label=Profile%20Views&query=%24.count&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2FDevansh0Tyagi-Codes%2Freadme&style=for-the-badge" alt="Profile Views" />
-&nbsp;
-![Open to Collab](https://img.shields.io/badge/Open%20to-Collaborate-c084fc?style=for-the-badge&logo=github&logoColor=white)
-&nbsp;
-![Status](https://img.shields.io/badge/Status-Building%20CineVault-eab308?style=for-the-badge)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=B.Tech+CSE+%40+ABES+Engineering+College;C%2B%2B+Programmer+%26+DSA+Enthusiast;Building+things+with+React+%26+Tailwind;Always+learning+something+new)](https://github.com/Devansh0Tyagi-Codes)
 
-<br/><br/>
+<br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Devansh0Tyagi--Codes-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Devansh0Tyagi-Codes)
+<a href="https://github.com/Devansh0Tyagi-Codes">
+  <img src="https://img.shields.io/badge/GitHub-Devansh0Tyagi--Codes-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=7c3aed" />
+</a>
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Devansh%20Tyagi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devansh-tyagi-4a1012428/)
+<a href="https://www.linkedin.com/in/devansh-tyagi-4a1012428/">
+  <img src="https://img.shields.io/badge/LinkedIn-Devansh%20Tyagi-0d1117?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2563eb" />
+</a>
 &nbsp;
-[![LeetCode](https://img.shields.io/badge/LeetCode-devansh__codex-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/devansh_codex/)
+<a href="https://leetcode.com/u/devansh_codex/">
+  <img src="https://img.shields.io/badge/LeetCode-devansh__codex-0d1117?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=f59e0b" />
+</a>
 &nbsp;
-[![CodeChef](https://img.shields.io/badge/CodeChef-devansh__codex0-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/devansh_codex0)
+<a href="https://www.codechef.com/users/devansh_codex0">
+  <img src="https://img.shields.io/badge/CodeChef-devansh__codex0-0d1117?style=for-the-badge&logo=codechef&logoColor=white&labelColor=5b4638" />
+</a>
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=1&color=gradient" />
+---
 
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                      ABOUT ME                             -->
-<!-- ══════════════════════════════════════════════════════════ -->
-
-<h2 align="center">🧭 About Me</h2>
-
-<table align="center">
-<tr>
-<td width="55%" valign="top">
+## `whoami`
 
 ```yaml
-name        : Devansh Tyagi
-college     : ABES Engineering College, Ghaziabad
-branch      : B.Tech — Computer Science Engineering
-year        : 2nd Year
-role        : C++ Programmer & Web Developer
-currently   : Building CineVault + sharpening DSA
-goal        : Write clean code, ship real projects
-fun_fact    : I debug faster with chai in hand ☕
+name     : Devansh Tyagi
+college  : ABES Engineering College, Ghaziabad
+branch   : B.Tech — Computer Science Engineering
+year     : 2nd Year
+focus    : C++, Web Dev, DSA
+building : CineVault — a movie discovery app
 ```
 
-</td>
-<td width="45%" valign="top">
+- Working through DSA consistently and building real projects on the side
+- Comfortable with C++ for problem solving, using React + Tailwind for the web
+- Learning by shipping — not just watching tutorials
+- Open to collaborating on web dev projects
 
-🎬 &nbsp; Currently building **CineVault** — a movie discovery app
-&nbsp;
-🤝 &nbsp; Looking to collaborate on **open-source web dev projects**
-&nbsp;
-🌱 &nbsp; Sharpening my **DSA & problem-solving** skills daily
-&nbsp;
-💬 &nbsp; Ask me about **C++, React, Tailwind or DSA**
-&nbsp;
-⚡ &nbsp; Fun fact: **chai-powered debugging since day one**
-&nbsp;
-🎯 &nbsp; Goal: **write clean code, ship real projects**
+---
 
-</td>
-</tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=1&color=gradient" />
-
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                    TECH STACK                             -->
-<!-- ══════════════════════════════════════════════════════════ -->
-
-<h2 align="center">⚙️ Tech Stack</h2>
+## Tech Stack
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Languages-c084fc?style=for-the-badge" /><br/><br/>
+<img src="https://img.shields.io/badge/─────────%20Languages%20─────────-7c3aed?style=for-the-badge&labelColor=1a0533" />
+
+<br/><br/>
+
 <img src="https://skillicons.dev/icons?i=cpp,js,html,css&theme=dark" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Frontend-eab308?style=for-the-badge" /><br/><br/>
+<img src="https://img.shields.io/badge/─────────%20Frontend%20─────────-6d28d9?style=for-the-badge&labelColor=1a0533" />
+
+<br/><br/>
+
 <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,vite&theme=dark" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Backend%20%26%20Database-c084fc?style=for-the-badge" /><br/><br/>
+<img src="https://img.shields.io/badge/───────%20Backend%20%26%20DB%20───────-4f46e5?style=for-the-badge&labelColor=1a0533" />
+
+<br/><br/>
+
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Tools%20%26%20Platforms-eab308?style=for-the-badge" /><br/><br/>
+<img src="https://img.shields.io/badge/──────%20Tools%20%26%20Platforms%20──────-7c3aed?style=for-the-badge&labelColor=1a0533" />
+
+<br/><br/>
+
 <img src="https://skillicons.dev/icons?i=git,github,vscode,netlify,postman&theme=dark" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=1&color=gradient" />
+---
 
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--               STATS — SIDE-BY-SIDE GRID                  -->
-<!-- ══════════════════════════════════════════════════════════ -->
+## Projects
 
-<h2 align="center">📊 GitHub Stats</h2>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<div align="center">
+### 🎬 CineVault
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Devansh0Tyagi-Codes&show_icons=true&theme=radical&hide_border=true&bg_color=1a0d2e&title_color=c084fc&icon_color=eab308&text_color=e2d9f3&border_radius=12"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devansh0Tyagi-Codes&layout=donut&theme=radical&hide_border=true&bg_color=1a0d2e&title_color=c084fc&text_color=e2d9f3&border_radius=12"/>
+> A movie and web-series discovery site where you can browse films and shows, search across all sections, mark favorites, track what you've watched, and get IMDb + Rotten Tomatoes ratings at a glance.
+
+**Stack:** `HTML` `CSS` `JavaScript`
+
+**Features:**
+- 🔎 Live search across movies & web shows
+- ❤️ Favorites + watched tracking via localStorage
+- ⭐ IMDb & Rotten Tomatoes scores
+- 👤 User profile with saved name
+- 📱 Fully responsive layout
+- 🎥 Movie detail modal
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Devansh0Tyagi-Codes&theme=radical&hide_border=true&background=1a0d2e&stroke=c084fc&ring=eab308&fire=eab308&currStreakLabel=eab308&border_radius=12" />
+[![Repo](https://img.shields.io/badge/View%20Repo-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Devansh0Tyagi-Codes/CineVault)
 
-<br/><br/>
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/devansh_codex?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=12)](https://leetcode.com/u/devansh_codex/)
-
-<br/><br/>
-
-[![Devansh's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Devansh0Tyagi-Codes&theme=radical&hide_border=true&bg_color=1a0d2e&color=c084fc&line=eab308&point=ffffff&radius=12)](https://github.com/Devansh0Tyagi-Codes)
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=1&color=gradient" />
-
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                  FEATURED PROJECT                         -->
-<!-- ══════════════════════════════════════════════════════════ -->
-
-<h2 align="center">🎬 Featured Project</h2>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/🎬%20FEATURED-CineVault-1a0d2e?style=for-the-badge&labelColor=eab308&color=c084fc" />
-
-<br/><br/>
-
-<table width="100%">
-<tr>
-<td width="40%" valign="top" align="center" style="padding:20px;">
-<h3>🎬 CineVault</h3>
-<sub><i>Movie & web-series discovery platform</i></sub>
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
-<br/><br/>
-<a href="https://github.com/Devansh0Tyagi-Codes/CineVault"><img src="https://img.shields.io/badge/View%20Repo-c084fc?style=for-the-badge&logo=github&logoColor=white" /></a>
 </td>
-<td width="60%" valign="top" style="padding:20px;">
+<td width="50%" valign="top">
 
-*A responsive movie and web-series discovery website where users can explore, search, favorite, and mark movies/shows as watched.*
+### 📅 Evently
 
-| | Feature | What it does |
-|:---:|:---|:---|
-| 🎬 | **Discovery** | Explore movies & web series in one place |
-| 🔎 | **Search** | Find movies & web shows instantly |
-| ❤️👁️ | **Favorites & Watched** | Track what you love and what you've seen |
-| 👤 | **User Profile** | Saved name for a personalized feel |
-| ⭐ | **Ratings** | IMDb & Rotten Tomatoes scores built-in |
-| 📱 | **Responsive** | Smooth experience on mobile & desktop |
+> A React-based event discovery and booking platform. Users can browse events, search and filter by category, view event details, book tickets, and manage their profile and saved favorites.
+
+**Stack:** `React` `Tailwind CSS` `Vite`
+
+**Features:**
+- 🔍 Event search & category filtering
+- 🎟️ Digital ticket booking flow
+- 📋 Event detail pages
+- 👤 User profile
+- ❤️ Favorites
+- 📱 Mobile-friendly UI
+
+<br/>
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-06b6d4?style=for-the-badge&logo=vercel&logoColor=white)](https://evently-urcai.vercel.app)
+&nbsp;
+[![Repo](https://img.shields.io/badge/View%20Repo-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Devansh0Tyagi-Codes/Evently)
 
 </td>
 </tr>
 </table>
 
-</div>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=1&color=gradient" />
-
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                   CODING PROFILES                         -->
-<!-- ══════════════════════════════════════════════════════════ -->
-
-<h2 align="center">🏆 Competitive Coding Profiles</h2>
+## Coding Profiles
 
 <div align="center">
 
-| Platform | Profile | Focus |
-|:---:|:---:|:---:|
-| ![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black) | [devansh_codex](https://leetcode.com/u/devansh_codex/) | DSA & Problem Solving |
-| ![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white) | [devansh_codex0](https://www.codechef.com/users/devansh_codex0) | Competitive Programming |
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=1&color=gradient" />
-
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                 GITHUB TROPHIES                           -->
-<!-- ══════════════════════════════════════════════════════════ -->
-
-<h2 align="center">🏅 GitHub Trophies</h2>
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Devansh0Tyagi-Codes&theme=dracula&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/Devansh0Tyagi-Codes)
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=1&color=gradient" />
-
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                    CONTRIBUTION SNAKE                     -->
-<!-- ══════════════════════════════════════════════════════════ -->
-
-<h2 align="center">🐍 Contribution Snake</h2>
-
-<div align="center">
-
-![snake gif](https://raw.githubusercontent.com/Devansh0Tyagi-Codes/Devansh0Tyagi-Codes/output/github-contribution-grid-snake-dark.svg)
-
-<sub>💡 Add the <a href="https://github.com/Platane/snk">snk GitHub Action</a> to your repo to auto-generate this snake animation from your contribution graph.</sub>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=1&color=gradient" />
-
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                    QUOTE + FOOTER                         -->
-<!-- ══════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-### 💭 Dev Mantra
-
-> *"Code with logic, build with purpose."*
-
-<br/>
-
-**📫 Let's connect — always up for a good build or a good conversation.**
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Devansh0Tyagi-Codes&style=for-the-badge&color=c084fc&label=PROFILE+VIEWS)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c084fc,50:4a2377,100:1a0033&height=150&section=footer" />
-
-</div>
-<div align="center">
-
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                    ANIMATED HEADER                        -->
-<!-- ══════════════════════════════════════════════════════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0033,50:4a2377,100:c084fc&height=220&section=header&text=Hey,%20I'm%20Devansh%20👋&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=C%2B%2B%20Programmer%20|%20Web%20Developer%20|%20DSA%20Enthusiast&descAlignY=55&descSize=18&animation=fadeIn" />
-
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                    TYPING ANIMATION                       -->
-<!-- ══════════════════════════════════════════════════════════ -->
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=C084FC&center=true&vCenter=true&width=700&lines=%F0%9F%92%BB+C%2B%2B+Programmer+%7C+DSA+Enthusiast;%F0%9F%8C%90+Web+Developer+%7C+React+%26+Tailwind;%F0%9F%8E%AC+Building+CineVault+%E2%80%94+Movie+Discovery+App;%F0%9F%8E%93+B.Tech+CSE+%40+ABES+Engineering+College)](https://github.com/Devansh0Tyagi-Codes)
-
-<br/>
-
-<img src="https://img.shields.io/badge/dynamic/json?color=c084fc&label=Profile%20Views&query=%24.count&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2FDevansh0Tyagi-Codes%2Freadme&style=for-the-badge" alt="Profile Views" />
-&nbsp;
-![Open to Collab](https://img.shields.io/badge/Open%20to-Collaborate-c084fc?style=for-the-badge&logo=github&logoColor=white)
-&nbsp;
-![Status](https://img.shields.io/badge/Status-Building%20CineVault-eab308?style=for-the-badge)
-
-<br/><br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-Devansh0Tyagi--Codes-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Devansh0Tyagi-Codes)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Devansh%20Tyagi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devansh-tyagi-4a1012428/)
-&nbsp;
-[![LeetCode](https://img.shields.io/badge/LeetCode-devansh__codex-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/devansh_codex/)
-&nbsp;
-[![CodeChef](https://img.shields.io/badge/CodeChef-devansh__codex0-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/devansh_codex0)
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=1&color=gradient" />
-
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                      ABOUT ME                             -->
-<!-- ══════════════════════════════════════════════════════════ -->
-
-<h2 align="center">🧭 About Me</h2>
-
-<table align="center">
+<table>
 <tr>
-<td width="55%" valign="top">
-
-```yaml
-name        : Devansh Tyagi
-college     : ABES Engineering College, Ghaziabad
-branch      : B.Tech — Computer Science Engineering
-year        : 2nd Year
-role        : C++ Programmer & Web Developer
-currently   : Building CineVault + sharpening DSA
-goal        : Write clean code, ship real projects
-fun_fact    : I debug faster with chai in hand ☕
-```
-
-</td>
-<td width="45%" valign="top">
-
-🎬 &nbsp; Currently building **CineVault** — a movie discovery app
-&nbsp;
-🤝 &nbsp; Looking to collaborate on **open-source web dev projects**
-&nbsp;
-🌱 &nbsp; Sharpening my **DSA & problem-solving** skills daily
-&nbsp;
-💬 &nbsp; Ask me about **C++, React, Tailwind or DSA**
-&nbsp;
-⚡ &nbsp; Fun fact: **chai-powered debugging since day one**
-&nbsp;
-🎯 &nbsp; Goal: **write clean code, ship real projects**
-
-</td>
+<th>Platform</th>
+<th>Handle</th>
+<th>Focus</th>
 </tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=1&color=gradient" />
-
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                    TECH STACK                             -->
-<!-- ══════════════════════════════════════════════════════════ -->
-
-<h2 align="center">⚙️ Tech Stack</h2>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Languages-c084fc?style=for-the-badge" /><br/><br/>
-<img src="https://skillicons.dev/icons?i=cpp,js,html,css&theme=dark" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Frontend-eab308?style=for-the-badge" /><br/><br/>
-<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,vite&theme=dark" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Backend%20%26%20Database-c084fc?style=for-the-badge" /><br/><br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Tools%20%26%20Platforms-eab308?style=for-the-badge" /><br/><br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,netlify,postman&theme=dark" />
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=1&color=gradient" />
-
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--               STATS — SIDE-BY-SIDE GRID                  -->
-<!-- ══════════════════════════════════════════════════════════ -->
-
-<h2 align="center">📊 GitHub Stats</h2>
-
-<div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Devansh0Tyagi-Codes&show_icons=true&theme=radical&hide_border=true&bg_color=1a0d2e&title_color=c084fc&icon_color=eab308&text_color=e2d9f3&border_radius=12"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devansh0Tyagi-Codes&layout=donut&theme=radical&hide_border=true&bg_color=1a0d2e&title_color=c084fc&text_color=e2d9f3&border_radius=12"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=Devansh0Tyagi-Codes&theme=radical&hide_border=true&background=1a0d2e&stroke=c084fc&ring=eab308&fire=eab308&currStreakLabel=eab308&border_radius=12" />
-
-<br/><br/>
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/devansh_codex?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=12)](https://leetcode.com/u/devansh_codex/)
-
-<br/><br/>
-
-[![Devansh's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Devansh0Tyagi-Codes&theme=radical&hide_border=true&bg_color=1a0d2e&color=c084fc&line=eab308&point=ffffff&radius=12)](https://github.com/Devansh0Tyagi-Codes)
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=1&color=gradient" />
-
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                  FEATURED PROJECT                         -->
-<!-- ══════════════════════════════════════════════════════════ -->
-
-<h2 align="center">🎬 Featured Project</h2>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/🎬%20FEATURED-CineVault-1a0d2e?style=for-the-badge&labelColor=eab308&color=c084fc" />
-
-<br/><br/>
-
-<table width="100%">
 <tr>
-<td width="40%" valign="top" align="center" style="padding:20px;">
-<h3>🎬 CineVault</h3>
-<sub><i>Movie & web-series discovery platform</i></sub>
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
-<br/><br/>
-<a href="https://github.com/Devansh0Tyagi-Codes/CineVault"><img src="https://img.shields.io/badge/View%20Repo-c084fc?style=for-the-badge&logo=github&logoColor=white" /></a>
-</td>
-<td width="60%" valign="top" style="padding:20px;">
-
-*A responsive movie and web-series discovery website where users can explore, search, favorite, and mark movies/shows as watched.*
-
-| | Feature | What it does |
-|:---:|:---|:---|
-| 🎬 | **Discovery** | Explore movies & web series in one place |
-| 🔎 | **Search** | Find movies & web shows instantly |
-| ❤️👁️ | **Favorites & Watched** | Track what you love and what you've seen |
-| 👤 | **User Profile** | Saved name for a personalized feel |
-| ⭐ | **Ratings** | IMDb & Rotten Tomatoes scores built-in |
-| 📱 | **Responsive** | Smooth experience on mobile & desktop |
-
-</td>
+<td><img src="https://img.shields.io/badge/LeetCode-1a0d2e?style=flat-square&logo=leetcode&logoColor=f59e0b" /></td>
+<td><a href="https://leetcode.com/u/devansh_codex/"><strong>devansh_codex</strong></a></td>
+<td>DSA & Problem Solving</td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/CodeChef-1a0d2e?style=flat-square&logo=codechef&logoColor=a78bfa" /></td>
+<td><a href="https://www.codechef.com/users/devansh_codex0"><strong>devansh_codex0</strong></a></td>
+<td>Competitive Programming</td>
 </tr>
 </table>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=1&color=gradient" />
+---
 
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                   CODING PROFILES                         -->
-<!-- ══════════════════════════════════════════════════════════ -->
+## Currently working on
 
-<h2 align="center">🏆 Competitive Coding Profiles</h2>
+- Improving DSA — arrays, strings, recursion, and beyond
+- Getting better at React patterns and component structure
+- Expanding CineVault with more features
+- Exploring backend basics with Node.js + Express
 
-<div align="center">
-
-| Platform | Profile | Focus |
-|:---:|:---:|:---:|
-| ![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black) | [devansh_codex](https://leetcode.com/u/devansh_codex/) | DSA & Problem Solving |
-| ![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white) | [devansh_codex0](https://www.codechef.com/users/devansh_codex0) | Competitive Programming |
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=1&color=gradient" />
-
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                 GITHUB TROPHIES                           -->
-<!-- ══════════════════════════════════════════════════════════ -->
-
-<h2 align="center">🏅 GitHub Trophies</h2>
+---
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Devansh0Tyagi-Codes&theme=dracula&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/Devansh0Tyagi-Codes)
+![Profile Views](https://komarev.com/ghpvc/?username=Devansh0Tyagi-Codes&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)
 
-</div>
+<br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=1&color=gradient" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:4f46e5,100:0d0d1a&height=120&section=footer" />
 
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                    CONTRIBUTION SNAKE                     -->
-<!-- ══════════════════════════════════════════════════════════ -->
-
-<h2 align="center">🐍 Contribution Snake</h2>
-
-<div align="center">
-
-![snake gif](https://raw.githubusercontent.com/Devansh0Tyagi-Codes/Devansh0Tyagi-Codes/output/github-contribution-grid-snake-dark.svg)
-
-<sub>💡 Add the <a href="https://github.com/Platane/snk">snk GitHub Action</a> to your repo to auto-generate this snake animation from your contribution graph.</sub>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=1&color=gradient" />
-
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                    QUOTE + FOOTER                         -->
-<!-- ══════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-### 💭 Dev Mantra
-
-> *"Code with logic, build with purpose."*
-
-<br/>
-
-**📫 Let's connect — always up for a good build or a good conversation.**
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Devansh0Tyagi-Codes&style=for-the-badge&color=c084fc&label=PROFILE+VIEWS)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c084fc,50:4a2377,100:1a0033&height=150&section=footer" />
+<sub>Thanks for stopping by — feel free to explore my projects.</sub>
 
 </div>
