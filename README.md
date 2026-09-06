@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=19&pause=1000&color=06B6D4&center=true&vCenter=true&width=640&lines=B.Tech+CSE+%40+ABES+Engineering+College;C%2B%2B+Programmer+%26+DSA+Enthusiast;Building+things+with+React+%26+Tailwind;Always+learning+something+new)](https://github.com/Devansh0Tyagi-Codes)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=19&pause=1000&color=06B6D4&center=true&vCenter=true&width=640&lines=B.Tech+CSE+%40+ABES+Engineering+College;C%2B%2B+Programmer+%26+DSA+Enthusiast;Building+with+React+%26+Tailwind;Always+learning+something+new)](https://github.com/Devansh0Tyagi-Codes)
 
 <br/>
 
@@ -30,46 +30,32 @@
 
 ---
 
-<h2>👤 Who Am I</h2>
+## 👤 Who Am I
 
-<table>
-<tr>
-<td width="48%" valign="top">
+I'm a 2nd-year Computer Science Engineering student at ABES Engineering College, Ghaziabad. Currently focused on C++, DSA, and web development — I learn best by actually building projects and improving them as I go.
+
+<br/>
 
 ```yaml
 name     : Devansh Tyagi
-college  : ABES Engineering College
-           Ghaziabad
-branch   : B.Tech — Computer Science
+college  : ABES Engineering College, Ghaziabad
+branch   : B.Tech — Computer Science Engineering
 year     : 2nd Year
-focus    : C++, Web Dev, DSA
-building : CineVault — movie discovery app
+focus    : C++, Web Development, DSA
+building : CineVault — a movie discovery app
 ```
 
-</td>
-<td width="52%" valign="top">
-
 <br/>
 
-&nbsp;&nbsp;→ &nbsp;Currently working on DSA and improving problem-solving with C++
-
-&nbsp;&nbsp;→ &nbsp;Building practical web projects while learning React and modern frontend
-
-&nbsp;&nbsp;→ &nbsp;Learning by actually building and shipping — not just following tutorials
-
-&nbsp;&nbsp;→ &nbsp;Exploring better UI structure, component patterns, and real-world dev
-
-&nbsp;&nbsp;→ &nbsp;Open to collaborating on web dev and open-source projects
-
-<br/>
-
-</td>
-</tr>
-</table>
+- Working consistently on DSA and problem solving with C++
+- Building practical web projects using React and modern frontend tooling
+- Improving by shipping real things, not just following tutorials
+- Exploring component structure, UI patterns, and full-stack basics
+- Open to collaborating on web dev and open-source projects
 
 ---
 
-<h2>⚙️ Tech Stack</h2>
+## ⚙️ Tech Stack
 
 <div align="center">
 
@@ -103,7 +89,7 @@ building : CineVault — movie discovery app
 
 ---
 
-<h2>🚀 Projects</h2>
+## 🚀 Projects
 
 <br/>
 
@@ -115,7 +101,7 @@ building : CineVault — movie discovery app
 
 <br/>
 
-<p>A movie and web-series discovery site where you can browse films and shows, search across all sections, mark favorites, track what you've watched, and get IMDb + Rotten Tomatoes ratings at a glance.</p>
+A movie and web-series discovery site where you can browse films and shows, search across sections, mark favorites, track what you've watched, and see IMDb + Rotten Tomatoes ratings at a glance.
 
 <br/>
 
@@ -124,10 +110,9 @@ building : CineVault — movie discovery app
 <br/>
 
 **Features:**
-
 - 🔎 &nbsp;Live search across movies & web shows
 - ❤️ &nbsp;Favorites + watched tracking via localStorage
-- ⭐ &nbsp;IMDb & Rotten Tomatoes scores shown
+- ⭐ &nbsp;IMDb & Rotten Tomatoes scores
 - 👤 &nbsp;User profile with saved name
 - 🎥 &nbsp;Movie detail modal
 - 📱 &nbsp;Fully responsive layout
@@ -136,9 +121,9 @@ building : CineVault — movie discovery app
 
 <div align="center">
 
-[![Live Demo](https://img.shields.io/badge/%E2%96%B6%20Live%20Demo-06b6d4?style=for-the-badge&logoColor=white)](https://cinevault-project-three.vercel.app/)
-&nbsp;&nbsp;
-[![View Repo](https://img.shields.io/badge/%E2%8C%9E%20View%20Repo-ec4899?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Devansh0Tyagi-Codes/CineVault)
+<a href="https://cinevault-project-three.vercel.app/"><img src="https://img.shields.io/badge/%E2%96%B6%20Live%20Demo-06b6d4?style=for-the-badge&logoColor=white" /></a>
+&nbsp;
+<a href="https://github.com/Devansh0Tyagi-Codes/CineVault"><img src="https://img.shields.io/badge/%E2%8C%9E%20View%20Repo-ec4899?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div>
 
@@ -151,7 +136,7 @@ building : CineVault — movie discovery app
 
 <br/>
 
-<p>A React-based event discovery and booking platform. Users can browse events, search and filter by category, view event details, book tickets, and manage their profile and saved favorites.</p>
+A React-based event discovery and booking platform. Browse events, search and filter by category, view event details, book tickets, and manage your profile and saved favorites.
 
 <br/>
 
@@ -160,7 +145,6 @@ building : CineVault — movie discovery app
 <br/>
 
 **Features:**
-
 - 🔍 &nbsp;Event search & category filtering
 - 🎟️ &nbsp;Digital ticket booking flow
 - 📋 &nbsp;Event detail pages
@@ -172,9 +156,9 @@ building : CineVault — movie discovery app
 
 <div align="center">
 
-[![Live Demo](https://img.shields.io/badge/%E2%96%B6%20Live%20Demo-06b6d4?style=for-the-badge&logoColor=white)](https://evently-urcai.vercel.app)
-&nbsp;&nbsp;
-[![View Repo](https://img.shields.io/badge/%E2%8C%9E%20View%20Repo-ec4899?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Devansh0Tyagi-Codes/Evently)
+<a href="https://evently-urcai.vercel.app"><img src="https://img.shields.io/badge/%E2%96%B6%20Live%20Demo-06b6d4?style=for-the-badge&logoColor=white" /></a>
+&nbsp;
+<a href="https://github.com/Devansh0Tyagi-Codes/Evently"><img src="https://img.shields.io/badge/%E2%8C%9E%20View%20Repo-ec4899?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div>
 
@@ -186,7 +170,7 @@ building : CineVault — movie discovery app
 
 ---
 
-<h2>💻 Coding Profiles</h2>
+## 💻 Competitive Programming
 
 <div align="center">
 
@@ -196,39 +180,37 @@ building : CineVault — movie discovery app
 <tr>
 <th align="center">Platform</th>
 <th align="center">Handle</th>
-<th align="center">What I practice</th>
+<th align="center">Focus</th>
 </tr>
 <tr>
-<td align="center"><img src="https://img.shields.io/badge/LeetCode-0d1117?style=flat-square&logo=leetcode&logoColor=f59e0b" /></td>
-<td align="center"><a href="https://leetcode.com/u/devansh_codex/"><strong>devansh_codex</strong></a></td>
+<td align="center">
+  <img src="https://img.shields.io/badge/LeetCode-0d1117?style=flat-square&logo=leetcode&logoColor=f59e0b" />
+</td>
+<td align="center">
+  <a href="https://leetcode.com/u/devansh_codex/"><strong>devansh_codex</strong></a>
+</td>
 <td align="center">DSA & Problem Solving</td>
 </tr>
 <tr>
-<td align="center"><img src="https://img.shields.io/badge/CodeChef-0d1117?style=flat-square&logo=codechef&logoColor=67e8f9" /></td>
-<td align="center"><a href="https://www.codechef.com/users/devansh_codex0"><strong>devansh_codex0</strong></a></td>
+<td align="center">
+  <img src="https://img.shields.io/badge/CodeChef-0d1117?style=flat-square&logo=codechef&logoColor=67e8f9" />
+</td>
+<td align="center">
+  <a href="https://www.codechef.com/users/devansh_codex0"><strong>devansh_codex0</strong></a>
+</td>
 <td align="center">Competitive Programming</td>
 </tr>
 </table>
 
 <br/>
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/devansh_codex?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=10)](https://leetcode.com/u/devansh_codex/)
-
-<br/>
-
-</div>
-
----
-
-<h2>📈 GitHub Activity</h2>
-
-<div align="center">
-
-<br/>
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Devansh0Tyagi-Codes&show_icons=true&hide_border=true&bg_color=0d1117&title_color=06b6d4&icon_color=ec4899&text_color=e2e8f0&border_radius=10" />
+<a href="https://leetcode.com/u/devansh_codex/">
+  <img src="https://img.shields.io/badge/Visit%20LeetCode%20Profile-f59e0b?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
 &nbsp;
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devansh0Tyagi-Codes&layout=compact&hide_border=true&bg_color=0d1117&title_color=06b6d4&text_color=e2e8f0&border_radius=10" />
+<a href="https://www.codechef.com/users/devansh_codex0">
+  <img src="https://img.shields.io/badge/Visit%20CodeChef%20Profile-67e8f9?style=for-the-badge&logo=codechef&logoColor=black" />
+</a>
 
 <br/><br/>
 
@@ -236,7 +218,7 @@ building : CineVault — movie discovery app
 
 ---
 
-<h2>🔧 Currently Working On</h2>
+## 🔧 Currently Working On
 
 <br/>
 
